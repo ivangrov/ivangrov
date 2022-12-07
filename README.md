@@ -2,9 +2,9 @@
 
 ### About me
 
-- 🔭 I’m currently helping build the best tools for machine learning at [Weights & Biases](https://wandb.com).
+- 🔭 I’m currently helping build the best tools for machine learning practitioners at [Weights & Biases](https://wandb.com).
 - 🎥 As well as creating educational videos about ML on [my YouTube channel](https://www.youtube.com/c/IvanGoncharovAI). 
-- 🌱 I’m currently learning more about domains of computer vision, NLP and MLOps. 
+- 🌱 I’m currently learning more about domains of computer vision, NLP and MLOps.
 - 👯 I’m happy to collaborate on any exciting ML projects. 
 - 📫 How to reach me: You can reach me on [my Twitter](https://twitter.com/ivangrov) and [my LinkedIn](https://linkedin.com/in/ivangrov). You can email me at ivangoncharovai@gmail.com / ivan@wandb.com. 
 - ⚡ Fun fact: I'm really into music and enjoy spending my time jamming on the guitar. 
