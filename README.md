@@ -1,12 +1,10 @@
 ### Hi there 👋
 
-<!--
-**ivangrov/ivangrov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on helping build the best tools for machine learning at [Weights & Biases](https://wandb.com). 
+- 🌱 I’m currently learning computer vision and NLP. 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -17,5 +15,6 @@ Here are some ideas to get you started:
 
 
 ### Github Stats
+
 
 ![](https://github-readme-stats.vercel.app/api?username=ivangrov&count_private=true&show_icons=true&count_private=true)
